@@ -6,14 +6,6 @@ It has been expanded and refined to demonstrate practical skills in **data clean
 The dataset used contains detailed information about LEGO pieces, themes, sets, and colors.  
 The goal is to uncover long-term trends, relationships between themes and sets, and insights about the growth of the LEGO universe.
 
-
-## 🔧 Technologies Used
-
-- Python  
-- Jupyter Notebook  
-- Pandas   
-- Matplotlib  
-
 ---
 
 ## 🧩 What This Project Includes
@@ -29,7 +21,7 @@ The goal is to uncover long-term trends, relationships between themes and sets, 
 
 ---
 
-## 🏆 Key Skills Demonstrated
+## Key Skills
 
 - Data cleaning and preprocessing  
 - Merging DataFrames with relational logic  
@@ -37,4 +29,14 @@ The goal is to uncover long-term trends, relationships between themes and sets, 
 - Time-series exploration  
 - Data visualization and multi-axis plots  
 - Identifying and communicating insights  
-- Structuring a notebook for clarity and readability  
+- Structuring a notebook for clarity and readability
+
+---
+
+## 🔧 Technologies Used
+
+- Python  
+- Jupyter Notebook  
+- Pandas   
+- Matplotlib  
+
